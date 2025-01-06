@@ -19,15 +19,6 @@
 
 AWS Elastic Beanstalk上でStreamlitアプリケーションを実行するためのDockerベースのプロジェクトです。
 
-## 🛠️ 技術スタック
-
-- **言語**: Python 3.9
-- **フレームワーク**: Streamlit 1.28.0
-- **データ処理**: Pandas 2.0.3, NumPy 1.25.2
-- **コンテナ**: Docker
-- **オーケストレーション**: Docker Compose
-- **クラウド**: AWS Elastic Beanstalk
-
 ## 🏗️ プロジェクト構造
 
 ```plaintext
